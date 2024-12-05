@@ -4,7 +4,7 @@
 ### About me
 >- 💼 I work as Network Engineer <br>
 >  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; @ Arista Networks,
->      Banglore,
+>      Bangalore,
 >      Karnataka,
 >      India.
 >- 🎓 I pursued my BTech in CSE-AI <br>
