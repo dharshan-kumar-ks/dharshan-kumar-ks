@@ -2,7 +2,11 @@
 
 
 ### About me
-
+>- 💼 I work as Network Engineer <br>
+>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; @ Arista Networks,
+>      Banglore,
+>      Karnataka,
+>      India.
 >- 🎓 I pursued my BTech in CSE-AI <br>
 >  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; @ Amrita Vishwa Vidyapeetham,
 >      Coimbatore,
@@ -19,8 +23,8 @@
 >|                              |          |
 >|------------------------------|----------|
 >| Python                       | ████████ |
->| MATLAB                       | ███████░ |  
->| Java                         | ██████░░ | 
+>| Java                         | ███████░ |  
+
 
 <br>
 
