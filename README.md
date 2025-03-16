@@ -2,7 +2,7 @@
 
 
 ### About me
->- 💼 I work as Network Engineer <br>
+>- 💼 I work as Technical Solutions Engineer <br>
 >  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; @ Arista Networks,
 >      Bangalore,
 >      Karnataka,
@@ -13,7 +13,7 @@
 >      Tamil Nadu,
 >      India.
 >      
->- 💬 Ask me about Computer Networks, DSA & Data Science
+>- 💬 Ask me about Software Engineering & Computer Networks
 >- 📫 How to reach me: dharshankumar55@gmail.com
 
 <br>
@@ -22,8 +22,8 @@
 ### Languages
 >|                              |          |
 >|------------------------------|----------|
->| Python                       | ████████ |
->| Java                         | ███████░ |  
+>| Java                         | ███████░ |
+>| Python                       | ██████░░ |  
 
 
 <br>
