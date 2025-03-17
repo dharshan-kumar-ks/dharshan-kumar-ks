@@ -24,7 +24,7 @@ Beyond my professional experience, I have a strong foundation in data structures
 - **🏅 166th Rank** (out of 3000) - Amazon ML Hackathon (Aug 2021)  
 - **🏅 9th Rank** - ISRO Electrical Substation Detection Competition (July 2021)  
 - 📄 Published **1 Journal & 3 Conference Papers** on **CNN-based Pediatric Pneumonia Detection** (96.15% accuracy).  
-- 🏆 **Best Conference Paper** - ADSC Conference 2022 *(Deep Learning for Object Detection in Low-Light Conditions)*.  
+- 🏆 **Best Conference Paper Award** - ADSC Conference 2022 *(Deep Learning for Object Detection in Low-Light Conditions)*.  
 
 ## 📫 Let's Connect!
 <a href="https://www.linkedin.com/in/dharshan-kumar-ba09521a0/">
