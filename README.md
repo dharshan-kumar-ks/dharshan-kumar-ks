@@ -20,6 +20,14 @@ Beyond my professional experience, I have a strong foundation in data structures
 - Enhanced **Arista’s internal tools** (STA, Product Navigator, supportAVA chatbot)
 - Assisted in resolving **high-priority data center network issues** for clients like Microsoft, Google, and Meta.  
 
+## 📋 Projects
+
+| Spring Boot          | AI/ML               | Others               |
+|------------------------------|-----------------------------|-----------------------------|
+| [PGBuddy](https://github.com/dharshan-kumar-ks/PGBuddy)            | [Object detection](https://github.com/dharshan-kumar-ks/electrical_substation_detection) | [Multipath Load Balancing](https://github.com/dharshan-kumar-ks/Multipath-Load-Balancing)               |
+| [BookMyShow Replica](https://github.com/dharshan-kumar-ks/BookMyShowApplication)            |  | [Distance Vector Algorithm](https://github.com/dharshan-kumar-ks/Distance_Vector_Algorithm)    |
+| [Splitwise Replica](https://github.com/dharshan-kumar-ks/SplitwiseApplication)             |  |  [Food Ordering Mobile App](https://github.com/dharshan-kumar-ks/Food_Hub_App)    |
+
 ## 🏆 Achievements  
 - **🏅 166th Rank** (out of 3000) - Amazon ML Hackathon (Aug 2021)  
 - **🏅 9th Rank** - ISRO Electrical Substation Detection Competition (July 2021)  
