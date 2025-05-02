@@ -35,7 +35,7 @@ Beyond my professional experience, I have a strong foundation in data structures
 - 🏆 **Best Conference Paper Award** - ADSC Conference 2022 *(Deep Learning for Object Detection in Low-Light Conditions)*.  
 
 ## 📫 Let's Connect!
-<a href="https://www.linkedin.com/in/dharshan-kumar-ba09521a0/">
+<a href="https://www.linkedin.com/in/dharshan-kumar-k-s/">
   <img align="left" alt="Dharshan's LinkedIN" width="100px" src="https://github.com/user-attachments/assets/7ad38c9d-da3a-4bde-b370-f9761575c1f6" />
 </a>
 <a href="https://www.dharshankumar55@gmail.com">
