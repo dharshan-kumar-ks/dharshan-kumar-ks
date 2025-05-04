@@ -2,7 +2,7 @@
 🚀 **Technical Solutions Engineer at Arista Networks** | 💻 **Java & SpringBoot Developer** | 🌐 **Network Enthusiast**  
 
 <br>
-I'm a passionate Software Engineer with experience in <b>Java, Spring Boot, and Python</b>, specializing in backend development and scalable system design. Currently, I work at Arista Networks, where I help developers in building internal tools and troubleshoot complex networking challenges.
+I'm a passionate Software Engineer with experience in <b>Java, Spring Boot, and Python</b>, specializing in backend development and scalable system design. Currently, I work at Arista Networks, where I help in building internal tools and troubleshoot complex networking challenges.
 
 Beyond my professional experience, I have a strong foundation in data structures, algorithms, and distributed systems, along with hands-on experience in cloud networking. I love solving challenging problems, optimizing backend performance, and building efficient software solutions. 
 <br></br>
